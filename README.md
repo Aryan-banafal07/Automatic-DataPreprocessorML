@@ -12,7 +12,7 @@ To install and run this project locally, follow these steps:
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/yourusername/DataPreprocessorML.git
+git clone https://github.com/Aryan-banafal7/DataPreprocessorML.git
 
 # Navigate into the project directory
 cd DataPreprocessorML
